@@ -1,5 +1,3 @@
---create by ¶«Ñï¶¬Ñô 2015.01.11
-
 local GameLogital = class("GameLogital")
 
 GameLogital.STONE_HIDE = "HIDE"
