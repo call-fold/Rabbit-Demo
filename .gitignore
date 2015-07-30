@@ -1,0 +1,14 @@
+# Ignore thumbnails created by windows 
+Thumbs.db 
+
+# Ignore files build by Visual Studio 
+frameworks/
+runtime/
+tools/
+
+# Ignore files built by Cocos Code IDE 
+.settings/ 
+.metadata/
+.buildpath
+.project
+config.json
